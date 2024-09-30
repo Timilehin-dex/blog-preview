@@ -9,9 +9,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,28 +22,22 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Timilehin-dex/blog-preview)
+- Live Site URL: [Add live site URL here](https://timilehin-dex.github.io/blog-preview/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
 - CSS Grid
-- Mobile-first workflow
 - [Tailwind.css](https://tailwindcss.com/) - Tailwind
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Olusoyemi Timilehin](https://timilehin-dex.github.io/Portfolio/)
+- Frontend Mentor - [@Timilehin-dex](https://www.frontendmentor.io/profile/Timilehin-dex)
 
 ## Acknowledgments
 
-I give appreciation to Idukpye Alex for helping with the box-shadow
+I give appreciation to Idukpye Alex (on youtube)for helping with the box-shadow
